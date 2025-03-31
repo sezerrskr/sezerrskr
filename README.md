@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [www.sezerskr.com](www.sezerskr.com)
 
-- ⚡ Fun fact **I dont love js but ı using js framework**
+- ⚡ Fun fact **I dont love js but i using js framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
