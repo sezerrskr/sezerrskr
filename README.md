@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [www.sezerskr.com](www.sezerskr.com)
 
-- ⚡ Fun fact **I dont love js but i using js framework**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sezerr.skr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/sezerrskr" height="30" width="40" /></a>
