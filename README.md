@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 What I'm up to
-
+- Owner of **[RevGame](https://www.revgame.com.tr)**
 - 🔭 I'm the founder and sole developer of **[RevGame](https://www.revgame.com.tr)** - A next-gen gaming community, database, and forum built from scratch using **Next.js** and **MongoDB**.
 - 🌱 Currently deep diving into **Rust**, **Cybersecurity (OSINT & Web Pentesting)**, and Advanced backend architectures.
 - 💻 My daily driver is **Arch Linux** (I also experiment with NixOS and CachyOS).
