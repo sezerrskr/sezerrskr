@@ -1,21 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sezer Şeker</h1>
-<h3 align="center">Fullstack Developer | Linux Enthusiast | Builder of RevGame</h3>
+# Sezer Şeker
+**Full-Stack Software Engineer | System Administrator | Founder of RevGame**
 
-<p align="left">
-  I'm an 18-year-old fullstack developer from Turkey. I'm passionate about building scalable web applications, diving deep into cybersecurity, and living in the terminal. (I use Arch btw 🐧)
-</p>
+I am a Full-Stack Developer based in Turkey, specializing in the architecture, development, and deployment of scalable web applications. My technical focus encompasses modern web frameworks, robust backend systems, and cybersecurity.
 
----
+### Professional Experience & Projects
+* **Founder & Lead Developer, RevGame (revgame.com.tr):** Architected and developed a comprehensive gaming community platform and database from the ground up utilizing **Next.js** and **MongoDB**.
+* **Systems Engineering:** Extensive experience in Linux system administration, custom environment configuration, and performance optimization (Arch Linux, Kali linux, CachyOS).
+* **Current Focus:** Expanding expertise in **Rust** programming, advanced backend architectures, and Web Penetration Testing (OSINT).
 
-### 🚀 What I'm up to
-- Owner of **[RevGame](https://www.revgame.com.tr)**
-- 🔭 I'm the founder and sole developer of **[RevGame](https://www.revgame.com.tr)** - A next-gen gaming community, database, and forum built from scratch using **Next.js** and **MongoDB**.
-- 🌱 Currently deep diving into **Rust**, **Cybersecurity (OSINT & Web Pentesting)**, and Advanced backend architectures.
-- 💻 My daily driver is **Arch Linux** (I also experiment with NixOS and CachyOS).
-- 💬 Ask me about: **Next.js, React, Linux ricing, SEO optimization, and building web apps.**
-- 📫 Reach me at: **sekersezer.09@gmail.com**
-- ⚡ Fun fact: When I'm not writing code or analyzing server logs, I'm probably breaking my own system configurations just to fix them again.
+### Core Competencies
+* **Web Development:** Next.js, React, Full-Lifecycle Application Development.
+* **Infrastructure:** Server management, database architecture, and SEO optimization.
+* **Security:** Fundamentals of web application security and vulnerability assessment.
 
----
-
-### 🛠️ Languages and Tools
+### Contact
+* **Email:** sekersezer.09@gmail.com
